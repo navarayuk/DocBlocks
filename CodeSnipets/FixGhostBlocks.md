@@ -1,4 +1,4 @@
-MCreator does not seem to handle ghost blocks versy well
+MCreator does not seem to handle ghost blocks very well
 to fix this we had to include 
 
 ```JAVA
