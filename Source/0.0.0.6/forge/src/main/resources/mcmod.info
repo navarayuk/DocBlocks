@@ -1,0 +1,19 @@
+[
+{
+  "modid": "DocBlocks",
+  "name": "DocBlocks",
+  "description": "DocBlocks Sugar Cane is life",
+  "version": "0.0.0.5 M Alpha",
+  "credits": "Created by mod maker MCreator and BadKaiPanda",
+  "logoFile": "/logo.png",
+  "mcversion": "1.10.2",
+  "url": "https://mcreator.pylo.co/",
+  "updateUrl": "",
+  "authors": [ "BadKaiPanda" , "MCreator" ],
+  "parent": "",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
