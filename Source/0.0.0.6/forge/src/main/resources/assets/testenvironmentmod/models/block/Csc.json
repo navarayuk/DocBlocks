@@ -1,0 +1,6 @@
+{
+    "parent": "TestEnvironmentMod:block/Csc_custom",
+    "textures": {
+        "0": "blocks/download","particle": "blocks/download","all": "blocks/download"
+    }
+}

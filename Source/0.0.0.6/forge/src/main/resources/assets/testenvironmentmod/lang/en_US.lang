@@ -1,0 +1,27 @@
+#Lang file was made using MCreator
+#Fri Jul 21 23:37:10 BST 2017
+tile.CscII.name=Quantum Suga Cane (II)
+item.SugarCube.name=Sugar Cube
+tile.CscIIIIIII.name=\ Quantum Suga Cane (VII)
+tile.CscIIIIIIII.name=\ Quantum Suga Cane (VIII)
+entity.TestEnvironmentMod.sugarCaneZombie.name=Quantum Zombie
+tile.CscIII.name=Quantum Suga Cane (III)
+tile.Csc.name=Quantum Cane
+tile.DocReedCompressedI.name=Compressed Reed I
+tile.ReedComX1.name=Compressed Reed X1
+item.SugarCaneDongle.name=Sugar Dongle
+item.SugarCaneDonglePlus.name=Living Sugar Cane
+item.doc_reed_boots.name=One Sweet Cloth Boots
+item.SugaCaneShovel.name=Dig Sweetly
+item.doc_reed_head.name=One Sweet Cloth Helmet
+item.doc_reed_leggins.name=One Sweet Cloth Leggings
+entity.TestEnvironmentMod.quantumZombie.name=Quantum Zombie
+tile.CompressedReeds.name=Compressed Reeds
+item.doc_reed_body.name=One Sweet Cloth Body
+tile.CscI.name=Quantum Suga Cane (I)
+tile.CscIIII.name=Quantum Suga Cane (IV)
+tile.CscIIIII.name=\ Quantum Suga Cane (V)
+item.SugarCaneSword.name=Cane Of Destiny
+tile.CscIIIIII.name=\ Quantum Suga Cane (VI)
+item.SugarCanePickaxe.name=Super Reed Miner
+item.SugarCaneAxe.name=Sugar Sap

@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "blocks/reed_block_eight_side","particle": "blocks/reed_block_eight_side"
+    }
+}
