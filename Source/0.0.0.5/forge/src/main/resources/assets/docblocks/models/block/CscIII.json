@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "blocks/reed_block_eight_side","down": "blocks/reed_block_eight_side","north": "blocks/reed_block_three_side","east": "blocks/reed_block_three_side","south": "blocks/reed_block_three_side","west": "blocks/reed_block_three_side","particle": "blocks/reed_block_eight_side"
+    }
+}
