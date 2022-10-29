@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPQ",
+    "PAN",
+    "NSU"
+  ],
+  "key": {
+    "P": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "Q": {
+      "item": "db:quantum_shard"
+    },
+    "A": {
+      "item": "db:pandoram_axe"
+    },
+    "N": {
+      "item": "db:pandoram_nugget"
+    },
+    "S": {
+      "tag": "forge:stick"
+    },
+    "U": {
+      "item": "db:sugar_cube"
+    }
+  },
+  "result": {
+    "item": "db:pandoram_cane_axe",
+    "count": 1
+  }
+}

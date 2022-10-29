@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "db:block/carboard_box_starter_box"
+    },
+    "facing=east": {
+      "model": "db:block/carboard_box_starter_box",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "db:block/carboard_box_starter_box",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "db:block/carboard_box_starter_box",
+      "y": 270
+    }
+  }
+}

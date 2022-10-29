@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PMP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "db:pandoram"
+    },
+    "M": {
+      "item": "db:molten_pandoram_bucket"
+    }
+  },
+  "result": {
+    "item": "db:pandoram_bail",
+    "count": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "doc_tsk_pickaxe",
+    "customModelName": "Normal",
+    "name": "Quantum Miner",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DBTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 3,
+    "efficiency": 30.0,
+    "attackSpeed": 2.0,
+    "enchantability": 30,
+    "damageVsEntity": 9.0,
+    "usageCount": 5000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PandoramCaneIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "CaneOfQuantumPickaxeItemIsCraftedsmelted"
+    }
+  }
+}

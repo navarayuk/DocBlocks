@@ -1,0 +1,8 @@
+{
+  "parent": "db:custom/control_panel_mob_scanner",
+  "textures": {
+    "all": "db:blocks/computer_tardis_mob_scanner",
+    "particle": "db:blocks/computer_tardis_mob_scanner",
+    "0": "db:blocks/computer_tardis_mob_scanner"
+  }
+}

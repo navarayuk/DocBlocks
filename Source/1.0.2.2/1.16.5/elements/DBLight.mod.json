@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "DB Light",
+    "icon": {
+      "value": "CUSTOM:TardisAirlockClosed"
+    },
+    "showSearch": true
+  }
+}

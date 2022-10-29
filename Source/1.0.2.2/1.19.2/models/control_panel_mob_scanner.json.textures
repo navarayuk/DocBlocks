@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "computer_tardis_mob_scanner"
+      },
+      "name": "default"
+    }
+  }
+}

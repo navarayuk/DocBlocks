@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "1": {
+      "item": "db:quantum_crystal"
+    },
+    "2": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "3": {
+      "item": "minecraft:emerald"
+    },
+    "4": {
+      "item": "db:pandoram_cane_pickaxe"
+    },
+    "5": {
+      "item": "minecraft:emerald"
+    },
+    "6": {
+      "item": "minecraft:diamond"
+    },
+    "7": {
+      "tag": "forge:stick"
+    },
+    "8": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "db:cane_of_quantum_pickaxe",
+    "count": 1
+  }
+}

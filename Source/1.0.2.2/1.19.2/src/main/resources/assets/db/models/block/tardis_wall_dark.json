@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "db:blocks/dark_wall_tardis",
+    "particle": "db:blocks/dark_wall_tardis"
+  },
+  "render_type": "solid"
+}

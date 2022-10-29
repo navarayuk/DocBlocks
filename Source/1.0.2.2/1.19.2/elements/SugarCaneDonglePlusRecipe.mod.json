@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:QuantumShard"
+      },
+      {
+        "value": "CUSTOM:PandoramCaneIngot"
+      },
+      {
+        "value": "CUSTOM:QuantumShard"
+      },
+      {
+        "value": "CUSTOM:SugarCaneDongle"
+      },
+      {
+        "value": "CUSTOM:QuantumShard"
+      },
+      {
+        "value": "CUSTOM:PandoramCaneIngot"
+      },
+      {
+        "value": "CUSTOM:QuantumShard"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SugarCaneDonglePlus"
+    },
+    "name": "sugar_cane_dongle_plus_recipe",
+    "namespace": "mod"
+  }
+}

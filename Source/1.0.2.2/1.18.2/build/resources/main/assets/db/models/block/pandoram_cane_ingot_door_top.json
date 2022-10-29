@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "db:blocks/quantum_reed_block",
+    "top": "db:blocks/quantum_reed_block"
+  }
+}

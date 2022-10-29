@@ -1,0 +1,6 @@
+JVM:         E:\Minecraft Dev\MCreatorEAP20223b44708\jdk\bin\java.exe
+JVM Args:    
+Run Args:    "--client", "E:\Minecraft Dev\BadKaiPanda\mods\DocBlocks - 1.19.2\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\stripClient\output.jar", "--server", "E:\Minecraft Dev\BadKaiPanda\mods\DocBlocks - 1.19.2\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\stripServer\output.jar", "--ann", "1.19.2", "--output", "E:\Minecraft Dev\BadKaiPanda\mods\DocBlocks - 1.19.2\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\merge\output.jar", "--inject", "false"
+Classpath:   C:\Users\Skullbash\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\mergetool\1.1.5\mergetool-1.1.5-fatjar.jar
+Working Dir: E:\Minecraft Dev\BadKaiPanda\mods\DocBlocks - 1.19.2\build\fg_cache\mcp\1.19.2-20220805.130853\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\merge
+Main Class:  net.minecraftforge.mergetool.ConsoleMerger

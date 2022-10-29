@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "SDS",
+    " T "
+  ],
+  "key": {
+    "P": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "S": {
+      "item": "minecraft:sugar_cane"
+    },
+    "D": {
+      "item": "minecraft:diamond_shovel"
+    },
+    "T": {
+      "tag": "forge:stick"
+    }
+  },
+  "result": {
+    "item": "db:pandoram_cane_ingot_shovel",
+    "count": 1
+  }
+}

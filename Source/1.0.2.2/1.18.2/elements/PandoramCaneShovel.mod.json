@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "doc_tsk_shovel",
+    "customModelName": "Normal",
+    "name": "Dig Sweetly",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DBTools"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 3,
+    "efficiency": 30.0,
+    "attackSpeed": 1.9,
+    "enchantability": 30,
+    "damageVsEntity": 7.9,
+    "usageCount": 4100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PandoramCaneIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

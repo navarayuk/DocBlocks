@@ -1,0 +1,29 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:PandoramCaneIngotWall"
+      },
+      {
+        "value": "CUSTOM:TardisWallLightSmallWall"
+      },
+      {
+        "value": "CUSTOM:SmoothTardisWallLightSmallWall"
+      },
+      {
+        "value": "CUSTOM:TardisWallDarkSmallWall"
+      },
+      {
+        "value": "CUSTOM:SmoothTardisSmallWallDark"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "walls",
+    "namespace": "minecraft"
+  }
+}

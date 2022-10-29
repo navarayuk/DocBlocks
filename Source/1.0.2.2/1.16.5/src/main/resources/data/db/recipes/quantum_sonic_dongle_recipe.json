@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GJD",
+    "NST",
+    "QNG"
+  ],
+  "key": {
+    "G": {
+      "item": "db:golden_sugar_cane_juice"
+    },
+    "J": {
+      "item": "minecraft:jukebox"
+    },
+    "D": {
+      "item": "minecraft:dragon_egg"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "S": {
+      "item": "db:sugar_cane_dongle_plus"
+    },
+    "T": {
+      "item": "db:the_post_man_tardis_key"
+    },
+    "Q": {
+      "item": "db:quantum_crystal"
+    }
+  },
+  "result": {
+    "item": "db:quantum_sonic_dongle",
+    "count": 1
+  }
+}

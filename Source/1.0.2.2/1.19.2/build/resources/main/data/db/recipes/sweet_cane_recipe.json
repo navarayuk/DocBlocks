@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sugar_cane"
+    },
+    "1": {
+      "item": "minecraft:sugar_cane"
+    }
+  },
+  "result": {
+    "item": "db:sweet_cane",
+    "count": 6
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sugar_cane"
+    },
+    "1": {
+      "item": "minecraft:chest"
+    },
+    "2": {
+      "item": "minecraft:sugar_cane"
+    },
+    "3": {
+      "tag": "forge:stick"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "tag": "forge:stick"
+    },
+    "6": {
+      "item": "minecraft:sugar_cane"
+    },
+    "7": {
+      "tag": "forge:stick"
+    },
+    "8": {
+      "item": "minecraft:sugar_cane"
+    }
+  },
+  "result": {
+    "item": "db:the_post_man_tardis_key",
+    "count": 1
+  }
+}

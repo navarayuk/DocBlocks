@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    " D ",
+    " S "
+  ],
+  "key": {
+    "P": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "S": {
+      "tag": "forge:stick"
+    }
+  },
+  "result": {
+    "item": "db:pandoram_pickaxe",
+    "count": 1
+  }
+}

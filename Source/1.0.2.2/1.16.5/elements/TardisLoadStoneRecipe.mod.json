@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PandoramCanePickaxe"
+      },
+      {
+        "value": "CUSTOM:HeartOfCane"
+      },
+      {
+        "value": "CUSTOM:PandoramCaneAxe"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "CUSTOM:TimeLordSeal"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "CUSTOM:PandoramCaneIngot"
+      },
+      {
+        "value": "CUSTOM:HeartOfCane"
+      },
+      {
+        "value": "CUSTOM:PandoramCaneIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TardisLoadStone"
+    },
+    "name": "tardis_load_stone_recipe",
+    "namespace": "mod"
+  }
+}

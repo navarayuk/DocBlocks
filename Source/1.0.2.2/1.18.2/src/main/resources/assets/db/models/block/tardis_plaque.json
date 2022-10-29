@@ -1,0 +1,8 @@
+{
+  "parent": "db:custom/plate",
+  "textures": {
+    "all": "db:blocks/plack",
+    "particle": "db:blocks/plack",
+    "2": "db:blocks/plack"
+  }
+}

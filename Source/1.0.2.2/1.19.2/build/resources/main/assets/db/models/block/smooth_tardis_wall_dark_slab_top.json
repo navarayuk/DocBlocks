@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "db:blocks/smooth_dark_wall_tardis",
+    "top": "db:blocks/smooth_dark_wall_tardis",
+    "side": "db:blocks/smooth_dark_wall_tardis"
+  },
+  "render_type": "solid"
+}

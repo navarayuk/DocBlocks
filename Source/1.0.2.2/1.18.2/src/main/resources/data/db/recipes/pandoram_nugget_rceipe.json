@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 2,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "db:pandoram"
+  },
+  "result": "db:pandoram_nugget"
+}

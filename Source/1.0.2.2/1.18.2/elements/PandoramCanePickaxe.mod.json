@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "doc_tsk_pickaxe",
+    "customModelName": "Normal",
+    "name": "Super Reed Miner",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DBTools"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 3,
+    "efficiency": 30.0,
+    "attackSpeed": 1.9,
+    "enchantability": 30,
+    "damageVsEntity": 8.0,
+    "usageCount": 4100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PandoramCaneIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

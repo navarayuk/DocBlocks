@@ -1,0 +1,20 @@
+{
+  "display": {
+    "background": "minecraft:textures/blocks/stone.png",
+    "icon": {
+      "item": "testenvironmentmod:quantumcrystal"
+    },
+    "title": {
+      "translate": "advancements.quantumachievement.title"
+    },
+    "description": {
+      "translate": "advancements.quantumachievement.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "quantumachievement": {
+      "trigger": "quantumachievement"
+    }
+  }
+}

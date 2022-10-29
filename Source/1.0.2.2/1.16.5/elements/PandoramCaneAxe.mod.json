@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "doc_tsk_axe",
+    "customModelName": "Normal",
+    "name": "Super Sap",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DBTools"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 30.0,
+    "attackSpeed": 1.85,
+    "enchantability": 30,
+    "damageVsEntity": 10.45,
+    "usageCount": 4100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PandoramCaneIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "db:block/till"
+    },
+    "facing=east": {
+      "model": "db:block/till",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "db:block/till",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "db:block/till",
+      "y": 270
+    }
+  }
+}

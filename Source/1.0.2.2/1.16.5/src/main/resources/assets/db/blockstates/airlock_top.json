@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "db:block/airlock_top"
+    },
+    "facing=east": {
+      "model": "db:block/airlock_top",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "db:block/airlock_top",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "db:block/airlock_top",
+      "y": 270
+    }
+  }
+}

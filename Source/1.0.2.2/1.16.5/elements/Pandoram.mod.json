@@ -1,0 +1,111 @@
+{
+  "_fv": 33,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "docreeds",
+    "textureBottom": "",
+    "customModelName": "Cross model",
+    "itemTexture": "docreeds",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "growapable",
+    "staticPlantGenerationType": "Flower",
+    "suspiciousStewEffect": "SPEED",
+    "suspiciousStewDuration": 100,
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 8,
+    "doublePlantGenerationType": "Flower",
+    "customBoundingBox": false,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 0.0,
+        "my": 0.0,
+        "mz": 0.0,
+        "Mx": 16.0,
+        "My": 16.0,
+        "Mz": 16.0,
+        "subtract": false
+      }
+    ],
+    "name": "Pandoram",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DocBlocks"
+    },
+    "hardness": 0.01,
+    "resistance": 2.0,
+    "luminance": 4,
+    "unbreakable": false,
+    "isSolid": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": false,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "emissiveRendering": true,
+    "hasTileEntity": false,
+    "isReplaceable": false,
+    "colorOnMap": "LIME",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DANGER_CACTUS",
+    "flammability": 20,
+    "fireSpreadSpeed": 4,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.4000000000000001,
+    "canBePlacedOn": [
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "Blocks.SAND#1"
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.MYCELIUM"
+      },
+      {
+        "value": "Blocks.DIRT#2"
+      }
+    ],
+    "frequencyOnChunks": 3,
+    "spawnWorldTypes": [
+      "Surface",
+      "Nether",
+      "End"
+    ],
+    "restrictionBiomes": [],
+    "patchSize": 16,
+    "generateAtAnyHeight": false,
+    "onRightClicked": {
+      "name": "PandoramPlantRightClicked"
+    }
+  }
+}

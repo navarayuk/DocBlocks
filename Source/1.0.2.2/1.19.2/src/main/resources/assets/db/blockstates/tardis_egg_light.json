@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "db:block/tardis_egg_light"
+    },
+    "facing=east": {
+      "model": "db:block/tardis_egg_light",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "db:block/tardis_egg_light",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "db:block/tardis_egg_light",
+      "y": 270
+    }
+  }
+}

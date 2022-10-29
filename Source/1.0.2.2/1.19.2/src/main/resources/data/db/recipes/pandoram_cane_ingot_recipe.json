@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "db:pandoram_nugget"
+    },
+    "1": {
+      "item": "db:pandoram_nugget"
+    },
+    "2": {
+      "item": "db:pandoram_nugget"
+    },
+    "3": {
+      "item": "db:pandoram_nugget"
+    },
+    "4": {
+      "item": "minecraft:lava_bucket"
+    },
+    "5": {
+      "item": "db:pandoram_nugget"
+    },
+    "6": {
+      "item": "db:pandoram_nugget"
+    },
+    "7": {
+      "item": "db:pandoram_nugget"
+    },
+    "8": {
+      "item": "db:pandoram_nugget"
+    }
+  },
+  "result": {
+    "item": "db:pandoram_cane_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "testenvironmentmod:block/model_keyblade",
+  "textures": {
+    "all": "blocks/canetop",
+    "particle": "blocks/canetop",
+    "1": "blocks/canebail_side",
+    "2": "blocks/caneore",
+    "3": "blocks/quantum_block",
+    "5": "blocks/sugar9",
+    "missing": "blocks/quantum_reed_block"
+  }
+}

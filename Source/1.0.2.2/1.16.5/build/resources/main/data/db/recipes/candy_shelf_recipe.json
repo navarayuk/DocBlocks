@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S S",
+    " B ",
+    "S S"
+  ],
+  "key": {
+    "S": {
+      "item": "db:sugarcane_and_bottle"
+    },
+    "B": {
+      "tag": "forge:bookshelves"
+    }
+  },
+  "result": {
+    "item": "db:candy_shelf",
+    "count": 1
+  }
+}

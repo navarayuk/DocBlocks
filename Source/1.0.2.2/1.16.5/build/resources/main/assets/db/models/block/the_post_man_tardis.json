@@ -1,0 +1,8 @@
+{
+  "parent": "db:custom/postman_tardis",
+  "textures": {
+    "all": "db:blocks/thebluebox",
+    "particle": "db:blocks/thebluebox",
+    "0": "db:blocks/thebluebox"
+  }
+}

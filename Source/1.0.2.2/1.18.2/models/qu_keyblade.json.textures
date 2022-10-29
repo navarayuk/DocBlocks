@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "canebail_side",
+        "2": "caneore",
+        "3": "quantum_block",
+        "5": "sugar9"
+      },
+      "name": "default"
+    }
+  }
+}

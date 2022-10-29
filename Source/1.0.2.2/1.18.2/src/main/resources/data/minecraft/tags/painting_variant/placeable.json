@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "db:tardis_view",
+    "db:candy_shop_sign"
+  ]
+}

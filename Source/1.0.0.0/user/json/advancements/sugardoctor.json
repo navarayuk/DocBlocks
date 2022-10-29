@@ -1,0 +1,20 @@
+{
+  "display": {
+    "background": "minecraft:textures/blocks/stone.png",
+    "icon": {
+      "item": "testenvironmentmod:quantumsonicdongle"
+    },
+    "title": {
+      "translate": "advancements.sugardoctor.title"
+    },
+    "description": {
+      "translate": "advancements.sugardoctor.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "sugardoctor": {
+      "trigger": "sugardoctor"
+    }
+  }
+}

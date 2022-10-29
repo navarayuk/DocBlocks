@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "db:blocks/four_brick_light_wall_tardis",
+    "particle": "db:blocks/four_brick_light_wall_tardis"
+  }
+}

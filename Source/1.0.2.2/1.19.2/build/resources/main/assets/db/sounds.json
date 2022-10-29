@@ -1,0 +1,82 @@
+{
+  "dongledo": {
+    "category": "master",
+    "subtitle": "subtitles.dongledo",
+    "sounds": [
+      {
+        "name": "db:soft_airy_swish",
+        "stream": false
+      }
+    ]
+  },
+  "sonic": {
+    "category": "master",
+    "subtitle": "subtitles.sonic",
+    "sounds": [
+      {
+        "name": "db:host",
+        "stream": false
+      }
+    ]
+  },
+  "log363": {
+    "category": "master",
+    "subtitle": "subtitles.log363",
+    "sounds": [
+      {
+        "name": "db:document_1",
+        "stream": false
+      }
+    ]
+  },
+  "blueboxland": {
+    "category": "master",
+    "subtitle": "subtitles.blueboxland",
+    "sounds": [
+      {
+        "name": "db:tardis_land_fast",
+        "stream": false
+      }
+    ]
+  },
+  "suger9_yes_master": {
+    "category": "master",
+    "subtitle": "subtitles.suger9_yes_master",
+    "sounds": [
+      {
+        "name": "db:k9master",
+        "stream": false
+      }
+    ]
+  },
+  "till": {
+    "category": "block",
+    "subtitle": "subtitles.till",
+    "sounds": [
+      {
+        "name": "db:ding",
+        "stream": false
+      }
+    ]
+  },
+  "airlock": {
+    "category": "block",
+    "subtitle": "subtitles.airlock",
+    "sounds": [
+      {
+        "name": "db:airlock",
+        "stream": false
+      }
+    ]
+  },
+  "core": {
+    "category": "music",
+    "subtitle": "subtitles.core",
+    "sounds": [
+      {
+        "name": "db:core",
+        "stream": true
+      }
+    ]
+  }
+}

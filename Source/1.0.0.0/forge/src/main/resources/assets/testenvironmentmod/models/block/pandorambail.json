@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blocks/sugar9",
+    "particle": "blocks/sugar9"
+  }
+}

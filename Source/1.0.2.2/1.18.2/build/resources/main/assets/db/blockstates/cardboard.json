@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "db:block/cardboard"
+    },
+    "facing=east": {
+      "model": "db:block/cardboard",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "db:block/cardboard",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "db:block/cardboard",
+      "y": 270
+    }
+  }
+}

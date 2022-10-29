@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QCQ",
+    "CNC",
+    "QCQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "db:quantum_shard"
+    },
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "db:time_lord_seal",
+    "count": 1
+  }
+}

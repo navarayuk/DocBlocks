@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "db:blocks/tardis_floor",
+    "particle": "db:blocks/tardis_floor"
+  },
+  "render_type": "solid"
+}

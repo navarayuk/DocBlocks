@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PandoramCaneIngot"
+      },
+      {
+        "value": "CUSTOM:QuantumCrystal"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "CUSTOM:CaneOfQuantum"
+      },
+      {
+        "value": "CUSTOM:PandoramCaneIngot"
+      },
+      {
+        "value": "TAG:forge:stick"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CaneOfDestiny"
+    },
+    "name": "cane_of_destiny_recipe",
+    "namespace": "mod"
+  }
+}

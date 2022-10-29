@@ -1,0 +1,9 @@
+{
+  "parent": "db:custom/control_panel_screen",
+  "textures": {
+    "all": "db:blocks/computer_tardis",
+    "particle": "db:blocks/computer_tardis",
+    "0": "db:blocks/computer_tardis_screen",
+    "2": "db:blocks/computer_panel_uv_a"
+  }
+}

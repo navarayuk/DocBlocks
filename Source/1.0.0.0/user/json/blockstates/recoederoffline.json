@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "testenvironmentmod:recoederoffline", "y":180},
+        "facing=east": { "model": "testenvironmentmod:recoederoffline", "y":270},
+        "facing=south": { "model": "testenvironmentmod:recoederoffline"},
+        "facing=west": { "model": "testenvironmentmod:recoederoffline", "y":90}
+    }
+}

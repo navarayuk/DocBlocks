@@ -1,0 +1,9 @@
+{
+  "parent": "db:custom/airlock_closed",
+  "textures": {
+    "all": "db:blocks/light_airlock_tardis",
+    "particle": "db:blocks/light_airlock_tardis",
+    "0": "db:blocks/smooth_light_airlock_tardis",
+    "1": "db:blocks/light_airlock_tardis"
+  }
+}

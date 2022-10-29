@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "main": "tardis_airlock_open_animation"
+      },
+      "name": "default"
+    }
+  }
+}

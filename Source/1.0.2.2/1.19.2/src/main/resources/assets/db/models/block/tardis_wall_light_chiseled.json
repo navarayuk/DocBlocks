@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "db:blocks/chiseled_top_light_wall_tardis",
+    "up": "db:blocks/chiseled_top_light_wall_tardis",
+    "north": "db:blocks/chiseled_light_wall_tardis",
+    "east": "db:blocks/chiseled_light_wall_tardis",
+    "south": "db:blocks/chiseled_light_wall_tardis",
+    "west": "db:blocks/chiseled_light_wall_tardis",
+    "particle": "db:blocks/chiseled_top_light_wall_tardis"
+  },
+  "render_type": "solid"
+}

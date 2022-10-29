@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "db:items/quantum_reet_sword"
+  }
+}

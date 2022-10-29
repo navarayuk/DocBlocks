@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "db:pandoram_cane_ingot_block"
+  },
+  "result": "db:pandoram_cane_ingont_steps"
+}

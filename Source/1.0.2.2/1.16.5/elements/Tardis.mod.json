@@ -1,0 +1,49 @@
+{
+  "_fv": 33,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Empty"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.VOID_AIR"
+    },
+    "fluidBlock": {
+      "value": "Blocks.VOID_AIR"
+    },
+    "airColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "onPlayerEntersDimension": {
+      "name": "TardisPlayerEntersDimension"
+    },
+    "portalFrame": {
+      "value": "CUSTOM:PandoramBail"
+    },
+    "portalParticles": {
+      "value": "REVERSE_PORTAL"
+    },
+    "portalLuminance": 5,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Tardis Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:DocBlocks"
+    },
+    "texture": "reed_heart",
+    "portalTexture": "fluidcane_still",
+    "enablePortal": false
+  }
+}

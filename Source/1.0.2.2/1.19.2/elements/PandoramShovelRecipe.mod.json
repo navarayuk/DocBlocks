@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PandoramCaneIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.REEDS"
+      },
+      {
+        "value": "Items.DIAMOND_SHOVEL"
+      },
+      {
+        "value": "Blocks.REEDS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:stick"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PandoramCaneIngotShovel"
+    },
+    "name": "pandoram_shovel_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Pandoram"
+      },
+      {
+        "value": "CUSTOM:Pandoram"
+      },
+      {
+        "value": "CUSTOM:Pandoram"
+      },
+      {
+        "value": "CUSTOM:Pandoram"
+      },
+      {
+        "value": "CUSTOM:MoltenPandoram.bucket"
+      },
+      {
+        "value": "CUSTOM:Pandoram"
+      },
+      {
+        "value": "CUSTOM:Pandoram"
+      },
+      {
+        "value": "CUSTOM:Pandoram"
+      },
+      {
+        "value": "CUSTOM:Pandoram"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PandoramBail"
+    },
+    "name": "pandoram_bail_recipe",
+    "namespace": "mod"
+  }
+}

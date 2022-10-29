@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "db:block/tardis_airlock_dark_opened"
+    },
+    "facing=east": {
+      "model": "db:block/tardis_airlock_dark_opened",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "db:block/tardis_airlock_dark_opened",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "db:block/tardis_airlock_dark_opened",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PDP"
+  ],
+  "key": {
+    "P": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond_helmet"
+    }
+  },
+  "result": {
+    "item": "db:pandoram_cane_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "db:quantum_shard"
+    },
+    "1": {
+      "item": "minecraft:clock"
+    },
+    "2": {
+      "item": "db:quantum_shard"
+    },
+    "3": {
+      "item": "minecraft:clock"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "minecraft:clock"
+    },
+    "6": {
+      "item": "db:quantum_shard"
+    },
+    "7": {
+      "item": "minecraft:clock"
+    },
+    "8": {
+      "item": "db:quantum_shard"
+    }
+  },
+  "result": {
+    "item": "db:time_lord_seal",
+    "count": 1
+  }
+}

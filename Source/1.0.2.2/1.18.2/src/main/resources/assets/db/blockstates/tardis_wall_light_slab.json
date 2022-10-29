@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "db:block/tardis_wall_light_slab"
+    },
+    "type=top": {
+      "model": "db:block/tardis_wall_light_slab_top"
+    },
+    "type=double": {
+      "model": "db:block/tardis_wall_light_slab_full"
+    }
+  }
+}

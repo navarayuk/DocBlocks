@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "db:blocks/quantum_block",
+    "particle": "db:blocks/quantum_block"
+  },
+  "render_type": "solid"
+}

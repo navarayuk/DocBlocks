@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "db:smooth_tardis_wall_light"
+  },
+  "result": "db:tardis_wall_light_bricks"
+}

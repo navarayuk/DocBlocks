@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "db:blocks/dark_wall_tardis"
+  }
+}

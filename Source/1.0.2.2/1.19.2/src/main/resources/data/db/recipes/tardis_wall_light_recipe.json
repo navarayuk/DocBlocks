@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "db:smooth_tardis_wall_light"
+    },
+    "1": {
+      "item": "db:smooth_tardis_wall_light"
+    },
+    "2": {
+      "item": "db:smooth_tardis_wall_light"
+    },
+    "3": {
+      "item": "db:smooth_tardis_wall_light"
+    }
+  },
+  "result": {
+    "item": "db:tardis_wall_light",
+    "count": 1
+  }
+}

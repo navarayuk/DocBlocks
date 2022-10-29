@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SPS",
+    "SPS",
+    "ADA"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sugar_cane"
+    },
+    "P": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "A": {
+      "item": "db:pandoram_nugget"
+    },
+    "D": {
+      "item": "minecraft:diamond_sword"
+    }
+  },
+  "result": {
+    "item": "db:pandoram_sword",
+    "count": 1
+  }
+}

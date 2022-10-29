@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "smooth_light_airlock_tardis",
+        "1": "light_airlock_tardis"
+      },
+      "name": "default"
+    }
+  }
+}

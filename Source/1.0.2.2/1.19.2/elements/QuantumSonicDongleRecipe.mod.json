@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GoldenSugarCaneJuice"
+      },
+      {
+        "value": "Blocks.JUKEBOX"
+      },
+      {
+        "value": "Blocks.DRAGON_EGG"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:SugarCaneDonglePlus"
+      },
+      {
+        "value": "CUSTOM:ThePostManTardisKey"
+      },
+      {
+        "value": "CUSTOM:QuantumCrystal"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:GoldenSugarCaneJuice"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:QuantumSonicDongle"
+    },
+    "name": "quantum_sonic_dongle_recipe",
+    "namespace": "mod"
+  }
+}

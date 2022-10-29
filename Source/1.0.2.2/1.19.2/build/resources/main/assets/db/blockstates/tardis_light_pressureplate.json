@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "db:block/tardis_light_pressureplate"
+    },
+    "powered=true": {
+      "model": "db:block/tardis_light_pressureplate_down"
+    }
+  }
+}

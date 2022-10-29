@@ -1,0 +1,8 @@
+{
+  "parent": "testenvironmentmod:block/model_bluebox",
+  "textures": {
+    "all": "blocks/thebluebox",
+    "particle": "blocks/thebluebox",
+    "0": "blocks/thebluebox"
+  }
+}

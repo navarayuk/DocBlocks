@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "1": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "2": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "3": {
+      "item": "minecraft:diamond_axe"
+    },
+    "5": {
+      "tag": "forge:stick"
+    }
+  },
+  "result": {
+    "item": "db:pandoram_axe",
+    "count": 1
+  }
+}

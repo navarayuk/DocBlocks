@@ -1,0 +1,8 @@
+{
+  "parent": "db:custom/sweetblock_one",
+  "textures": {
+    "all": "db:blocks/candy_shelf",
+    "particle": "db:blocks/candy_shelf",
+    "0": "db:blocks/candy_shelf"
+  }
+}

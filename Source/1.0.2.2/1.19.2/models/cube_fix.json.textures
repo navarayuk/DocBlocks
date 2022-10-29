@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "start",
+        "1": "start_top"
+      },
+      "name": "default"
+    }
+  }
+}

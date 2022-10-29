@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "db:block/pandoram_cane_ingot_slabs"
+    },
+    "type=top": {
+      "model": "db:block/pandoram_cane_ingot_slabs_top"
+    },
+    "type=double": {
+      "model": "db:block/pandoram_cane_ingot_slabs_full"
+    }
+  }
+}

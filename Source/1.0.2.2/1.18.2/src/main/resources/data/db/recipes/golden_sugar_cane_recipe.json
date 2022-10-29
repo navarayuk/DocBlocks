@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GOG",
+    "GSG",
+    "OGO"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_nugget"
+    },
+    "O": {
+      "item": "minecraft:gold_block"
+    },
+    "S": {
+      "item": "db:sugar_cane_juice"
+    }
+  },
+  "result": {
+    "item": "db:golden_sugar_cane_juice",
+    "count": 1
+  }
+}

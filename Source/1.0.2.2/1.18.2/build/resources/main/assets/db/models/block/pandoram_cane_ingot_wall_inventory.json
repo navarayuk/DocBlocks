@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "db:blocks/quantum_reed_block",
+    "particle": "db:blocks/quantum_reed_block"
+  }
+}

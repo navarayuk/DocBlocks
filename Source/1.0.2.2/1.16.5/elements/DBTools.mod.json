@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "DB Tools",
+    "icon": {
+      "value": "CUSTOM:CaneOfQuantumPickaxe"
+    },
+    "showSearch": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "db:blocks/smooth_light_airlock_tardis",
+    "up": "db:blocks/smooth_light_airlock_tardis",
+    "north": "db:blocks/smooth_light_books_tardis",
+    "east": "db:blocks/smooth_light_books_tardis",
+    "south": "db:blocks/smooth_light_books_tardis",
+    "west": "db:blocks/smooth_light_books_tardis",
+    "particle": "db:blocks/smooth_light_airlock_tardis"
+  },
+  "render_type": "solid"
+}

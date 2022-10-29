@@ -1,0 +1,11 @@
+By using MCreator software and website, you agree with the following terms of use and licenses:
+
+- Terms of Use of MCreator: https://mcreator.net/terms-of-use
+- Terms of Use of Pylo: https://www.pylo.co/terms-use
+- Third-Party licenses: https://mcreator.net/thirdparty
+
+Third party libraries, resources, and external software are not covered by our terms of use and our license and are subject to their own legal documents. These are located in the license directory (./license folder) inside the installation folder of MCreator and inside specific directories of extensions (./external folder).
+
+Some MCreator variants come with bundled Oracle Java JRE with some parts of JDK. Licenses for these files can be found in JDK directory. Oracle and Java are registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners. The bundled Java is independent software and not a part of MCreator project.
+
+MCreator performs anonymous tracking of user activity. We do not collect any personal information about the user. All the data is anonymized. By using MCreator Mod Maker, you agree with a collection of anonymous data for the intent of improving the quality of the user experience and performing statistical research of the software usage.

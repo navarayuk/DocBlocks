@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "doc_reed_sword",
+    "customModelName": "Normal",
+    "name": "Pandoram Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DBWeapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 30.0,
+    "attackSpeed": 1.7,
+    "enchantability": 30,
+    "damageVsEntity": 6.95,
+    "usageCount": 4000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PandoramCaneIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "db:sugarcane_and_bottle"
+    }
+  },
+  "result": {
+    "item": "db:sugar_cane_juice",
+    "count": 9
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PMP",
+    "PPP",
+    "SPS"
+  ],
+  "key": {
+    "P": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "M": {
+      "item": "db:molten_pandoram_bucket"
+    },
+    "S": {
+      "item": "db:sugar_cube"
+    }
+  },
+  "result": {
+    "item": "db:heart_of_cane",
+    "count": 1
+  }
+}

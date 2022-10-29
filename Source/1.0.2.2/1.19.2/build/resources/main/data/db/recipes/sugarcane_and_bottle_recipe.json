@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "db:sweet_cane"
+    },
+    "1": {
+      "item": "db:sweet_cane"
+    },
+    "2": {
+      "item": "db:sweet_cane"
+    },
+    "3": {
+      "item": "db:sweet_cane"
+    },
+    "4": {
+      "item": "minecraft:glass_bottle"
+    },
+    "5": {
+      "item": "db:sweet_cane"
+    },
+    "6": {
+      "item": "db:sweet_cane"
+    },
+    "7": {
+      "item": "db:sweet_cane"
+    },
+    "8": {
+      "item": "db:sweet_cane"
+    }
+  },
+  "result": {
+    "item": "db:sugarcane_and_bottle",
+    "count": 1
+  }
+}

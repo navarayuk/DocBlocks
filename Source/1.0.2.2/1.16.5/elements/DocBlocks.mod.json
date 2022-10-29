@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "Doc Blocks",
+    "icon": {
+      "value": "CUSTOM:CreativeIcon"
+    },
+    "showSearch": true
+  }
+}

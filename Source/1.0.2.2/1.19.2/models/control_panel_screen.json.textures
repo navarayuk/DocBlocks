@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "computer_tardis_screen",
+        "2": "computer_panel_uv_a"
+      },
+      "name": "default"
+    }
+  }
+}

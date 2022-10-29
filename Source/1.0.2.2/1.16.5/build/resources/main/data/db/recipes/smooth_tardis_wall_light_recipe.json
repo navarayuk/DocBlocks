@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PNP",
+    "NIN",
+    "PNP"
+  ],
+  "key": {
+    "P": {
+      "item": "db:pandoram_infused_cobblestone"
+    },
+    "N": {
+      "tag": "forge:nuggets/gold"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "db:smooth_tardis_wall_light",
+    "count": 6
+  }
+}

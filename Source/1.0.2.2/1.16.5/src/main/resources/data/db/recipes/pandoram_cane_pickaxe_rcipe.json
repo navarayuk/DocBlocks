@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PQP",
+    "ANA",
+    "STS"
+  ],
+  "key": {
+    "P": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "Q": {
+      "item": "db:quantum_shard"
+    },
+    "A": {
+      "item": "db:pandoram_nugget"
+    },
+    "N": {
+      "item": "db:pandoram_pickaxe"
+    },
+    "S": {
+      "item": "db:sweet_cane"
+    },
+    "T": {
+      "tag": "forge:stick"
+    }
+  },
+  "result": {
+    "item": "db:pandoram_cane_pickaxe",
+    "count": 1
+  }
+}

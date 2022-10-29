@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "core",
+        "1": "fluidcane_flow"
+      },
+      "name": "default"
+    }
+  }
+}

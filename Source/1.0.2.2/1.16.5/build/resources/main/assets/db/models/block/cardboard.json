@@ -1,0 +1,9 @@
+{
+  "parent": "db:custom/cube_fix",
+  "textures": {
+    "all": "db:blocks/start_top",
+    "particle": "db:blocks/start_top",
+    "0": "db:blocks/start",
+    "1": "db:blocks/start_top"
+  }
+}

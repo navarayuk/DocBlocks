@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "db:blocks/start",
+    "top": "db:blocks/start"
+  }
+}

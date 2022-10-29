@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "db:blocks/canebail_top",
+    "up": "db:blocks/canebail_top",
+    "north": "db:blocks/canebail_side",
+    "east": "db:blocks/canebail_side",
+    "south": "db:blocks/canebail_side",
+    "west": "db:blocks/canebail_side",
+    "particle": "db:blocks/canebail_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 ",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "db:sugarcane_and_bottle"
+    },
+    "2": {
+      "item": "db:sugarcane_and_bottle"
+    },
+    "4": {
+      "tag": "forge:bookshelves"
+    },
+    "6": {
+      "item": "db:sugarcane_and_bottle"
+    },
+    "8": {
+      "item": "db:sugarcane_and_bottle"
+    }
+  },
+  "result": {
+    "item": "db:candy_shelf",
+    "count": 1
+  }
+}

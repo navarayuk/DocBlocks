@@ -1,0 +1,9 @@
+{
+  "parent": "db:custom/control_panel_one",
+  "textures": {
+    "all": "db:blocks/computer_tardis",
+    "particle": "db:blocks/computer_tardis",
+    "0": "db:blocks/computer_tardis"
+  },
+  "render_type": "cutout"
+}

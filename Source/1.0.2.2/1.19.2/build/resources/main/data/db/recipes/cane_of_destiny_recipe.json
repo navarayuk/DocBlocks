@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "2": {
+      "item": "db:quantum_crystal"
+    },
+    "3": {
+      "item": "minecraft:emerald"
+    },
+    "4": {
+      "item": "db:cane_of_quantum"
+    },
+    "5": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "6": {
+      "tag": "forge:stick"
+    },
+    "7": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "db:cane_of_destiny",
+    "count": 1
+  }
+}

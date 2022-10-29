@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " SP",
+    "EQS",
+    "CE "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sugar_cane"
+    },
+    "P": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "Q": {
+      "item": "db:quantum_shard"
+    },
+    "C": {
+      "item": "db:cane_of_pandoram"
+    }
+  },
+  "result": {
+    "item": "db:cane_of_quantum",
+    "count": 1
+  }
+}

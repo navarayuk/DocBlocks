@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:QuantumShard"
+      },
+      {
+        "value": "CUSTOM:QuantumShard"
+      },
+      {
+        "value": "CUSTOM:QuantumShard"
+      },
+      {
+        "value": "CUSTOM:QuantumShard"
+      },
+      {
+        "value": "CUSTOM:SugarCube"
+      },
+      {
+        "value": "CUSTOM:QuantumShard"
+      },
+      {
+        "value": "CUSTOM:QuantumShard"
+      },
+      {
+        "value": "CUSTOM:QuantumShard"
+      },
+      {
+        "value": "CUSTOM:QuantumShard"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:QuantumNugget"
+    },
+    "name": "quantum_nugget_recipe",
+    "namespace": "mod"
+  }
+}

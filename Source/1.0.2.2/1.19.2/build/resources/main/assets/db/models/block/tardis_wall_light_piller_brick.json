@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "db:blocks/piller_top_brick_light_wall_tardis",
+    "up": "db:blocks/piller_top_brick_light_wall_tardis",
+    "north": "db:blocks/piller_brick_light_wall_tardis",
+    "east": "db:blocks/piller_brick_light_wall_tardis",
+    "south": "db:blocks/piller_brick_light_wall_tardis",
+    "west": "db:blocks/piller_brick_light_wall_tardis",
+    "particle": "db:blocks/piller_top_brick_light_wall_tardis"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "db:smooth_tardis_wall_light_small_wall",
+    "db:tardis_wall_light_small_wall",
+    "db:pandoram_cane_ingot_wall",
+    "db:tardis_wall_dark_small_wall",
+    "db:smooth_tardis_small_wall_dark"
+  ]
+}

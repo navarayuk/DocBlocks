@@ -1,0 +1,10 @@
+{
+  "parent": "db:custom/qu_keyblade",
+  "textures": {
+    "1": "db:blocks/canebail_side",
+    "2": "db:blocks/caneore",
+    "3": "db:blocks/quantum_block",
+    "5": "db:blocks/sugar9",
+    "particle": "db:items/reed_candy_staff"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "db:blocks/light_wall_tardis",
+    "particle": "db:blocks/light_wall_tardis"
+  }
+}

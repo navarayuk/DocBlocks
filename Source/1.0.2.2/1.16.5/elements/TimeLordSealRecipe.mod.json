@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:QuantumShard"
+      },
+      {
+        "value": "Items.CLOCK"
+      },
+      {
+        "value": "CUSTOM:QuantumShard"
+      },
+      {
+        "value": "Items.CLOCK"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "Items.CLOCK"
+      },
+      {
+        "value": "CUSTOM:QuantumShard"
+      },
+      {
+        "value": "Items.CLOCK"
+      },
+      {
+        "value": "CUSTOM:QuantumShard"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TimeLordSeal"
+    },
+    "name": "time_lord_seal_recipe",
+    "namespace": "mod"
+  }
+}

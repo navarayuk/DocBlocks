@@ -1,0 +1,8 @@
+{
+  "parent": "db:custom/control_panel_two",
+  "textures": {
+    "all": "db:blocks/computer_tardis",
+    "particle": "db:blocks/computer_tardis",
+    "0": "db:blocks/computer_tardis"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " PC",
+    " QP",
+    "S  "
+  ],
+  "key": {
+    "P": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "C": {
+      "item": "db:cane_of_destiny"
+    },
+    "Q": {
+      "item": "db:quantum_crystal"
+    },
+    "S": {
+      "tag": "forge:stick"
+    }
+  },
+  "result": {
+    "item": "db:quantum_key_blade",
+    "count": 1
+  }
+}

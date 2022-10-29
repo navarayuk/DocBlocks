@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "db:block/pandoram_bail"
+    },
+    "facing=east": {
+      "model": "db:block/pandoram_bail",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "db:block/pandoram_bail",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "db:block/pandoram_bail",
+      "y": 270
+    }
+  }
+}

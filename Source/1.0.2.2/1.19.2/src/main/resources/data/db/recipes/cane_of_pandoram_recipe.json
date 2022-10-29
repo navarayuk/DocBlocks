@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:sugar_cane"
+    },
+    "2": {
+      "item": "minecraft:sugar_cane"
+    },
+    "3": {
+      "item": "minecraft:emerald"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "minecraft:sugar_cane"
+    },
+    "6": {
+      "item": "db:pandoram_sword"
+    },
+    "7": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "db:cane_of_pandoram",
+    "count": 1
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "_fv": 33,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 231,
+    "height": 229,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Corridors",
+          "onClick": {
+            "name": "CorridorPage"
+          },
+          "width": 125,
+          "height": 20,
+          "name": "Corridors",
+          "x": 154,
+          "y": 62
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Base Rooms",
+          "onClick": {
+            "name": "BasePage"
+          },
+          "width": 125,
+          "height": 20,
+          "name": "Base Rooms",
+          "x": 154,
+          "y": 86
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Tardis Rooms - soon",
+          "width": 125,
+          "height": 20,
+          "name": "Tardis Rooms - soon",
+          "x": 154,
+          "y": 110
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Doors/Windows",
+          "onClick": {
+            "name": "DoorPage"
+          },
+          "width": 125,
+          "height": 20,
+          "name": "Doors/Windows",
+          "x": 154,
+          "y": 134
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Close",
+          "onClick": {
+            "name": "CloseGUI"
+          },
+          "width": 125,
+          "height": 20,
+          "name": "Close",
+          "x": 154,
+          "y": 166
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lightgui.png",
+          "use1Xscale": false,
+          "name": "lightgui.png",
+          "x": 98,
+          "y": 6
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 16,
+      "sy": 16,
+      "ox": 19,
+      "oy": 10,
+      "snapOnGrid": true
+    }
+  }
+}

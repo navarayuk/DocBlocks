@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "db:block/suger_9_mark_2"
+    },
+    "facing=east": {
+      "model": "db:block/suger_9_mark_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "db:block/suger_9_mark_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "db:block/suger_9_mark_2",
+      "y": 270
+    }
+  }
+}

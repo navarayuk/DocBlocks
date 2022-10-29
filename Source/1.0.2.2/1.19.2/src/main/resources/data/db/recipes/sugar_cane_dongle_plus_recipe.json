@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "db:quantum_shard"
+    },
+    "2": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "3": {
+      "item": "db:quantum_shard"
+    },
+    "4": {
+      "item": "db:sugar_cane_dongle"
+    },
+    "5": {
+      "item": "db:quantum_shard"
+    },
+    "6": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "7": {
+      "item": "db:quantum_shard"
+    }
+  },
+  "result": {
+    "item": "db:sugar_cane_dongle_plus",
+    "count": 1
+  }
+}

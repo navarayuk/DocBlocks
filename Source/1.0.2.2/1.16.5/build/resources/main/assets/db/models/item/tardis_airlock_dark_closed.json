@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "db:items/airlock_dark_door_item"
+  }
+}

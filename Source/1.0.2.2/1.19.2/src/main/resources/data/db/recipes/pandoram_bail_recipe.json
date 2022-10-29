@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "db:pandoram"
+    },
+    "1": {
+      "item": "db:pandoram"
+    },
+    "2": {
+      "item": "db:pandoram"
+    },
+    "3": {
+      "item": "db:pandoram"
+    },
+    "4": {
+      "item": "db:molten_pandoram_bucket"
+    },
+    "5": {
+      "item": "db:pandoram"
+    },
+    "6": {
+      "item": "db:pandoram"
+    },
+    "7": {
+      "item": "db:pandoram"
+    },
+    "8": {
+      "item": "db:pandoram"
+    }
+  },
+  "result": {
+    "item": "db:pandoram_bail",
+    "count": 1
+  }
+}

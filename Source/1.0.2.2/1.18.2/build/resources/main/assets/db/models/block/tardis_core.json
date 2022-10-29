@@ -1,0 +1,8 @@
+{
+  "parent": "db:custom/core",
+  "textures": {
+    "particle": "db:blocks/core",
+    "0": "db:blocks/core",
+    "1": "minecraft:block/glass"
+  }
+}

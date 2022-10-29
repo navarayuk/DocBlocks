@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "quantum_reet_sword",
+    "customModelName": "Normal",
+    "name": "Cane of Quantum",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DBWeapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 30.0,
+    "attackSpeed": 2.0,
+    "enchantability": 10,
+    "damageVsEntity": 12.0,
+    "usageCount": 4500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PandoramCaneIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "db:sugar_cane_bail"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sugar_cane",
+    "count": 9
+  }
+}

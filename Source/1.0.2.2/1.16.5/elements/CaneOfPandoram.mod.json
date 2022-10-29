@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "diamond_tsk_sword",
+    "customModelName": "Normal",
+    "name": "Pandoram Cane Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DBWeapons"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 30.0,
+    "attackSpeed": 1.85,
+    "enchantability": 30,
+    "damageVsEntity": 9.6,
+    "usageCount": 4100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PandoramCaneIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

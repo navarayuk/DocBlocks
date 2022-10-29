@@ -1,0 +1,47 @@
+{
+  "_fv": 33,
+  "_type": "fluid",
+  "definition": {
+    "name": "Molten Pandoram",
+    "bucketName": "Molten Pandoram Bucket",
+    "textureStill": "fluidcane_still",
+    "textureFlowing": "fluidcane_flow",
+    "tintType": "No tint",
+    "canMultiply": true,
+    "flowRate": 8,
+    "levelDecrease": 1,
+    "slopeFindDistance": 3,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "flowStrength": 1.4000000000000001,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 960,
+    "isGas": false,
+    "temperature": 300,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "bucket_molten_cane",
+    "creativeTab": {
+      "value": "CUSTOM:DocBlocks"
+    },
+    "emptySound": {
+      "value": "item.bucket.empty_lava"
+    },
+    "rarity": "UNCOMMON",
+    "specialInfo": [],
+    "resistance": 100.0,
+    "luminance": 3,
+    "lightOpacity": 2,
+    "emissiveRendering": true,
+    "tickRate": 10,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "GREEN",
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [],
+    "restrictionBiomes": []
+  }
+}

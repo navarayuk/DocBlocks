@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "factory_door_lower",
+        "1": "factory_door_upper"
+      },
+      "name": "default"
+    }
+  }
+}

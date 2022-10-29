@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "db:pandoram_infused_cobblestone"
+    },
+    "1": {
+      "tag": "forge:nuggets/gold"
+    },
+    "2": {
+      "item": "db:pandoram_infused_cobblestone"
+    },
+    "3": {
+      "tag": "forge:nuggets/gold"
+    },
+    "4": {
+      "tag": "forge:ingots/iron"
+    },
+    "5": {
+      "tag": "forge:nuggets/gold"
+    },
+    "6": {
+      "item": "db:pandoram_infused_cobblestone"
+    },
+    "7": {
+      "tag": "forge:nuggets/gold"
+    },
+    "8": {
+      "item": "db:pandoram_infused_cobblestone"
+    }
+  },
+  "result": {
+    "item": "db:smooth_tardis_wall_light",
+    "count": 6
+  }
+}

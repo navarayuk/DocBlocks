@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "db:block/tardis_wall_light_piller_brick",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "db:block/tardis_wall_light_piller_brick"
+    },
+    "axis=z": {
+      "model": "db:block/tardis_wall_light_piller_brick",
+      "x": 90
+    }
+  }
+}

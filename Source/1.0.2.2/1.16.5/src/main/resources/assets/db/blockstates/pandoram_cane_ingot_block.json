@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "db:block/pandoram_cane_ingot_block"
+    }
+  }
+}

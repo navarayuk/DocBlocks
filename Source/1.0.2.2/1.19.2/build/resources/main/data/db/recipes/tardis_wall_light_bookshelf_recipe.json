@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "db:smooth_tardis_wall_light"
+    },
+    "1": {
+      "item": "db:smooth_tardis_wall_light"
+    },
+    "2": {
+      "item": "db:smooth_tardis_wall_light"
+    },
+    "3": {
+      "item": "minecraft:book"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "minecraft:book"
+    },
+    "6": {
+      "item": "db:smooth_tardis_wall_light"
+    },
+    "7": {
+      "item": "db:smooth_tardis_wall_light"
+    },
+    "8": {
+      "item": "db:smooth_tardis_wall_light"
+    }
+  },
+  "result": {
+    "item": "db:tardis_wall_light_bookshelf",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "BBB",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "db:smooth_tardis_wall_light"
+    },
+    "B": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "db:tardis_wall_light_bookshelf",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "db:blocks/light_wall_tardis",
+    "top": "db:blocks/light_wall_tardis",
+    "side": "db:blocks/light_wall_tardis"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "db:pandoram_cane_pickaxe"
+    },
+    "1": {
+      "item": "db:heart_of_cane"
+    },
+    "2": {
+      "item": "db:pandoram_cane_axe"
+    },
+    "3": {
+      "item": "minecraft:diamond"
+    },
+    "4": {
+      "item": "db:time_lord_seal"
+    },
+    "5": {
+      "item": "minecraft:diamond"
+    },
+    "6": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "7": {
+      "item": "db:heart_of_cane"
+    },
+    "8": {
+      "item": "db:pandoram_cane_ingot"
+    }
+  },
+  "result": {
+    "item": "db:tardis_load_stone",
+    "count": 1
+  }
+}

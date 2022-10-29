@@ -1,0 +1,17 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:TardisWallLightBookshelf"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "bookshelves",
+    "namespace": "forge"
+  }
+}

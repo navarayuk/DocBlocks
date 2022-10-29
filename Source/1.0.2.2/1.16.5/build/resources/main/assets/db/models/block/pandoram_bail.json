@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "db:blocks/sugar9",
+    "up": "db:blocks/sugar9",
+    "north": "db:blocks/sugar9",
+    "east": "db:blocks/sugar9",
+    "south": "db:blocks/sugar9",
+    "west": "db:blocks/sugar9",
+    "particle": "db:blocks/sugar9"
+  }
+}

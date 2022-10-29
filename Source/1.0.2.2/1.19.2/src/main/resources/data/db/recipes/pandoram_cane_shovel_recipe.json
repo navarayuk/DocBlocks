@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "db:quantum_shard"
+    },
+    "3": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "4": {
+      "item": "db:pandoram_cane_ingot_shovel"
+    },
+    "5": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "7": {
+      "tag": "forge:stick"
+    }
+  },
+  "result": {
+    "item": "db:pandoram_cane_shovel",
+    "count": 1
+  }
+}

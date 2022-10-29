@@ -1,0 +1,9 @@
+{
+  "parent": "db:custom/airlock_dark_closed",
+  "textures": {
+    "all": "db:blocks/factory_door_lower",
+    "particle": "db:blocks/factory_door_lower",
+    "0": "db:blocks/factory_door_lower",
+    "1": "db:blocks/factory_door_upper"
+  }
+}

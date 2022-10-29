@@ -1,0 +1,7 @@
+Java Launcher: E:\Minecraft Dev\MCreatorEAP20223b44708\jdk\bin\java.exe
+Arguments: '--inJar, E:\Minecraft Dev\BadKaiPanda\mods\DocBlocks - 1.19.2\build\fg_cache\net\minecraftforge\forge\1.19.2-43.1.1\forge-1.19.2-43.1.1-injected.jar, --outJar, E:\Minecraft Dev\BadKaiPanda\mods\DocBlocks - 1.19.2\build\fg_cache\net\minecraftforge\forge\1.19.2-43.1.1_mapped_official_1.19.2\forge-1.19.2-43.1.1_mapped_official_1.19.2.jar, --logFile, accesstransform.log, --atFile, E:\Minecraft Dev\BadKaiPanda\mods\DocBlocks - 1.19.2\src\main\resources\META-INF\accesstransformer.cfg, --atFile, E:\Minecraft Dev\BadKaiPanda\mods\DocBlocks - 1.19.2\build\_atJar_4\parent_at.cfg'
+Classpath:
+ - C:\Users\Skullbash\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
+Working directory: E:\Minecraft Dev\BadKaiPanda\mods\DocBlocks - 1.19.2\build\_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================

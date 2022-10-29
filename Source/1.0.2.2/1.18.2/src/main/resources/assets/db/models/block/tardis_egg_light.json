@@ -1,0 +1,10 @@
+{
+  "parent": "db:custom/tardiscoral_egg_full",
+  "textures": {
+    "all": "db:blocks/time_eye",
+    "particle": "db:blocks/time_eye",
+    "0": "db:blocks/tardiscoral",
+    "2": "db:blocks/time_eye",
+    "3": "db:blocks/tardisegg"
+  }
+}

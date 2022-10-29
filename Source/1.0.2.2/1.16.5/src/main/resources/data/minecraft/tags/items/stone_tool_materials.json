@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:diorite",
+    "minecraft:stone",
+    "minecraft:granite",
+    "minecraft:andesite",
+    "db:pandoram_infused_cobblestone"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PHA",
+    "DTD",
+    "NHN"
+  ],
+  "key": {
+    "P": {
+      "item": "db:pandoram_cane_pickaxe"
+    },
+    "H": {
+      "item": "db:heart_of_cane"
+    },
+    "A": {
+      "item": "db:pandoram_cane_axe"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "T": {
+      "item": "db:time_lord_seal"
+    },
+    "N": {
+      "item": "db:pandoram_cane_ingot"
+    }
+  },
+  "result": {
+    "item": "db:tardis_load_stone",
+    "count": 1
+  }
+}

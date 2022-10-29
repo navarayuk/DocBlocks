@@ -1,0 +1,96 @@
+{
+  "_fv": 34,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 231,
+    "height": 229,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Main",
+          "onClick": {
+            "name": "PlaceMainCorridor"
+          },
+          "width": 125,
+          "height": 20,
+          "name": "Main",
+          "x": 153,
+          "y": 62
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Cross",
+          "onClick": {
+            "name": "PlaceCrossCorridor"
+          },
+          "width": 125,
+          "height": 20,
+          "name": "Cross",
+          "x": 153,
+          "y": 86
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Back",
+          "onClick": {
+            "name": "BackPage"
+          },
+          "width": 125,
+          "height": 20,
+          "name": "Back",
+          "x": 153,
+          "y": 166
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Left - soon",
+          "width": 125,
+          "height": 20,
+          "name": "Left - soon",
+          "x": 153,
+          "y": 110
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Right - soon",
+          "width": 125,
+          "height": 20,
+          "name": "Right - soon",
+          "x": 153,
+          "y": 134
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lightgui.png",
+          "use1Xscale": false,
+          "name": "lightgui.png",
+          "x": 98,
+          "y": 6
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 16,
+      "sy": 16,
+      "ox": 18,
+      "oy": 10,
+      "snapOnGrid": true
+    }
+  }
+}

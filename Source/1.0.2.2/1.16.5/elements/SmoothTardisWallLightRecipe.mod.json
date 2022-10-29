@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PandoramInfusedCobblestone"
+      },
+      {
+        "value": "TAG:forge:nuggets/gold"
+      },
+      {
+        "value": "CUSTOM:PandoramInfusedCobblestone"
+      },
+      {
+        "value": "TAG:forge:nuggets/gold"
+      },
+      {
+        "value": "TAG:forge:ingots/iron"
+      },
+      {
+        "value": "TAG:forge:nuggets/gold"
+      },
+      {
+        "value": "CUSTOM:PandoramInfusedCobblestone"
+      },
+      {
+        "value": "TAG:forge:nuggets/gold"
+      },
+      {
+        "value": "CUSTOM:PandoramInfusedCobblestone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SmoothTardisWallLight"
+    },
+    "name": "smooth_tardis_wall_light_recipe",
+    "namespace": "mod"
+  }
+}

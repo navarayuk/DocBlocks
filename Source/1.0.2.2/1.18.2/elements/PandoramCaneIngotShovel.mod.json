@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "doc_reed_shovel",
+    "customModelName": "Normal",
+    "name": "Pandoram Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:DBTools"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 3,
+    "efficiency": 30.0,
+    "attackSpeed": 1.6,
+    "enchantability": 30,
+    "damageVsEntity": 6.2,
+    "usageCount": 4000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:PandoramCaneIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

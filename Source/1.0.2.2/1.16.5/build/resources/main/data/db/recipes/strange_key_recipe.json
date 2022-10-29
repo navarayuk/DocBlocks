@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS",
+    "TDT",
+    "STS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sugar_cane"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    },
+    "T": {
+      "tag": "forge:stick"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "db:the_post_man_tardis_key",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "db:blocks/dark_wall_tardis",
+    "top": "db:blocks/dark_wall_tardis",
+    "side": "db:blocks/dark_wall_tardis"
+  },
+  "render_type": "solid"
+}

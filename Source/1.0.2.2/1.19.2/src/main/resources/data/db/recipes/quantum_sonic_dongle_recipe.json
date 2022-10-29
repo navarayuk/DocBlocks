@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "db:golden_sugar_cane_juice"
+    },
+    "1": {
+      "item": "minecraft:jukebox"
+    },
+    "2": {
+      "item": "minecraft:dragon_egg"
+    },
+    "3": {
+      "item": "minecraft:nether_star"
+    },
+    "4": {
+      "item": "db:sugar_cane_dongle_plus"
+    },
+    "5": {
+      "item": "db:the_post_man_tardis_key"
+    },
+    "6": {
+      "item": "db:quantum_crystal"
+    },
+    "7": {
+      "item": "minecraft:nether_star"
+    },
+    "8": {
+      "item": "db:golden_sugar_cane_juice"
+    }
+  },
+  "result": {
+    "item": "db:quantum_sonic_dongle",
+    "count": 1
+  }
+}

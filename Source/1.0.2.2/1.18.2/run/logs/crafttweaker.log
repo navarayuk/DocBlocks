@@ -1,0 +1,14 @@
+[16:50:45.930][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[16:50:46.248][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+'crafttweaker' at version '7.1.2.505'
+[16:50:46.603][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[16:50:49.254][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[16:50:50.065][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[16:51:19.836][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[16:51:19.905][DONE][CLIENT][INFO] Finished loading Scripts!
+[16:51:21.496][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[16:51:21.541][DONE][CLIENT][INFO] Finished loading Scripts!
+[16:51:24.283][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[16:51:24.327][DONE][CLIENT][INFO] Finished loading Scripts!
+[16:51:25.780][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[16:51:25.805][DONE][CLIENT][INFO] Finished loading Scripts!

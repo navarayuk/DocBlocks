@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PSP",
+    "PLP",
+    "PUP"
+  ],
+  "key": {
+    "P": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "S": {
+      "item": "db:sugar_cube"
+    },
+    "L": {
+      "item": "minecraft:lava_bucket"
+    },
+    "U": {
+      "item": "minecraft:sugar_cane"
+    }
+  },
+  "result": {
+    "item": "db:molten_pandoram_bucket",
+    "count": 1
+  }
+}

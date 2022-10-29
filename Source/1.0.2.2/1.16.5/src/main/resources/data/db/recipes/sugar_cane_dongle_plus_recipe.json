@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " QP",
+    "QSQ",
+    "PQ "
+  ],
+  "key": {
+    "Q": {
+      "item": "db:quantum_shard"
+    },
+    "P": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "S": {
+      "item": "db:sugar_cane_dongle"
+    }
+  },
+  "result": {
+    "item": "db:sugar_cane_dongle_plus",
+    "count": 1
+  }
+}

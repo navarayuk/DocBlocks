@@ -1,0 +1,9 @@
+{
+  "animation": {
+    "frametime": %frametime%,
+	"interpolate": %interpolate%,
+    "frames": [
+      %frames%
+    ]
+  }
+}

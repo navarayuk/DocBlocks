@@ -1,0 +1,8 @@
+{
+  "parent": "db:custom/suger9_mark_ii",
+  "textures": {
+    "all": "db:blocks/suger_9_mark_2",
+    "particle": "db:blocks/suger_9_mark_2",
+    "0": "db:blocks/suger_9_mark_2"
+  }
+}

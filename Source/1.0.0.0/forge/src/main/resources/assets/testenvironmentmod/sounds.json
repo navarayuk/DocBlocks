@@ -1,0 +1,47 @@
+{
+  "dongledo": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "testenvironmentmod:Soft_Airy_Swish",
+        "stream": false
+      }
+    ]
+  },
+  "sonic": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "testenvironmentmod:Host",
+        "stream": false
+      }
+    ]
+  },
+  "blueboxland": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "testenvironmentmod:tardis_land_fast",
+        "stream": false
+      }
+    ]
+  },
+  "Suga9Master": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "testenvironmentmod:k9master",
+        "stream": false
+      }
+    ]
+  },
+  "log363": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "testenvironmentmod:document 1",
+        "stream": false
+      }
+    ]
+  }
+}

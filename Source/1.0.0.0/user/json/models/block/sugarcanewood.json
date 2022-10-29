@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "blocks/CaneTop","down": "blocks/CaneTop","north": "blocks/CaneSide","east": "blocks/CaneSide","south": "blocks/CaneSide","west": "blocks/CaneSide","particle": "blocks/CaneTop"
+    }
+}

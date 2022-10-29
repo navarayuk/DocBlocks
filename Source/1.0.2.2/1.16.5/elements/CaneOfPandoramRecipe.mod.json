@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.REEDS"
+      },
+      {
+        "value": "Blocks.REEDS"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Blocks.REEDS"
+      },
+      {
+        "value": "CUSTOM:PandoramSword"
+      },
+      {
+        "value": "Items.EMERALD"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CaneOfPandoram"
+    },
+    "name": "cane_of_pandoram_recipe",
+    "namespace": "mod"
+  }
+}

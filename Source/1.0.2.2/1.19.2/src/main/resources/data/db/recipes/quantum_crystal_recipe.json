@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "db:quantum_nugget"
+    },
+    "1": {
+      "item": "db:quantum_nugget"
+    },
+    "2": {
+      "item": "db:quantum_nugget"
+    },
+    "3": {
+      "item": "db:quantum_nugget"
+    },
+    "4": {
+      "tag": "forge:gems/diamond"
+    },
+    "5": {
+      "item": "db:quantum_nugget"
+    },
+    "6": {
+      "item": "db:quantum_nugget"
+    },
+    "7": {
+      "item": "db:quantum_nugget"
+    },
+    "8": {
+      "item": "db:quantum_nugget"
+    }
+  },
+  "result": {
+    "item": "db:quantum_crystal",
+    "count": 1
+  }
+}

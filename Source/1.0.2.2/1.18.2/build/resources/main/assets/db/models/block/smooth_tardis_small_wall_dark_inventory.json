@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "db:blocks/smooth_dark_wall_tardis",
+    "particle": "db:blocks/smooth_dark_wall_tardis"
+  }
+}

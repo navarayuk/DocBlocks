@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "db:sugarcane_and_bottle"
+    },
+    "1": {
+      "item": "db:sugarcane_and_bottle"
+    },
+    "2": {
+      "item": "db:sugarcane_and_bottle"
+    },
+    "3": {
+      "item": "db:sugarcane_and_bottle"
+    },
+    "4": {
+      "item": "db:sugarcane_and_bottle"
+    },
+    "5": {
+      "item": "db:sugarcane_and_bottle"
+    },
+    "6": {
+      "item": "db:sugarcane_and_bottle"
+    },
+    "7": {
+      "item": "db:sugarcane_and_bottle"
+    },
+    "8": {
+      "item": "db:sugarcane_and_bottle"
+    }
+  },
+  "result": {
+    "item": "db:sugar_cane_juice",
+    "count": 9
+  }
+}

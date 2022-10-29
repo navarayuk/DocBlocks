@@ -1,0 +1,8 @@
+{
+  "parent": "db:custom/till",
+  "textures": {
+    "all": "db:blocks/till",
+    "particle": "db:blocks/till",
+    "0": "db:blocks/till"
+  }
+}

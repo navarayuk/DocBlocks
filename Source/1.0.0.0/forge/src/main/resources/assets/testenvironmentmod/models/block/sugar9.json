@@ -1,0 +1,8 @@
+{
+  "parent": "testenvironmentmod:block/model_suger9block",
+  "textures": {
+    "all": "blocks/sugar9",
+    "particle": "blocks/sugar9",
+    "0": "blocks/sugar9"
+  }
+}

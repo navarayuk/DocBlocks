@@ -1,0 +1,38 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="db"
+version="1.0.2.2"
+displayName="docblocks"
+credits="BadKaiPanda, NavaRayUK,DrBlockheadMC"
+displayURL="https://drblockheadmc.com"
+logoFile="logo.png"
+authors="drblockheadmc"
+description='''
+The time was nine, the sugar was cane. lets learn about the Shopkeeper
+'''
+
+[[dependencies.db]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.db]]
+    modId="jade"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.db]]
+    modId="jei"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+

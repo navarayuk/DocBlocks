@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "1": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "2": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "3": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "4": {
+      "item": "minecraft:diamond_leggings"
+    },
+    "5": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "6": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "8": {
+      "item": "db:pandoram_cane_ingot"
+    }
+  },
+  "result": {
+    "item": "db:pandoram_cane_armor_leggings",
+    "count": 1
+  }
+}

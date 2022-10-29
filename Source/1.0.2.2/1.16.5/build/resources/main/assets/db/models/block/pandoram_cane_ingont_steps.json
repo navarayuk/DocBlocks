@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "db:blocks/quantum_reed_block",
+    "top": "db:blocks/quantum_reed_block",
+    "side": "db:blocks/quantum_reed_block"
+  }
+}

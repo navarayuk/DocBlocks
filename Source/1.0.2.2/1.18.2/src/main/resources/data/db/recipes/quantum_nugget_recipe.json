@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QQQ",
+    "QSQ",
+    "QQQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "db:quantum_shard"
+    },
+    "S": {
+      "item": "db:sugar_cube"
+    }
+  },
+  "result": {
+    "item": "db:quantum_nugget",
+    "count": 1
+  }
+}

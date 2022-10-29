@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "db:blocks/docreeds",
+    "particle": "db:blocks/docreeds"
+  }
+}

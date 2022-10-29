@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SUS",
+    "PDP",
+    "AUA"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sugar_cane"
+    },
+    "U": {
+      "item": "db:sugar_cube"
+    },
+    "P": {
+      "item": "db:pandoram_cane_ingot"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "A": {
+      "item": "db:pandoram_nugget"
+    }
+  },
+  "result": {
+    "item": "db:quantum_shard",
+    "count": 4
+  }
+}

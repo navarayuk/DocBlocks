@@ -1,0 +1,144 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "items/pandoram_chisel"
+  },
+  "display": {
+      "thirdperson_righthand": {
+        "rotation": [
+          0,
+          0,
+          64
+        ],
+        "translation": [
+          -1,
+          2.5,
+          0.5
+        ],
+        "scale": [
+          0.55,
+          0.5,
+          0.4
+        ]
+      },
+      "thirdperson_lefthand": {
+        "rotation": [
+          4,
+          0,
+          330
+        ],
+        "translation": [
+          -0.75,
+          2.75,
+          0.5
+        ],
+        "scale": [
+          0.55,
+          0.5,
+          0.4
+        ]
+      },
+      "firstperson_righthand": {
+        "rotation": [
+          358,
+          326,
+          82
+        ],
+        "translation": [
+          -0.75,
+          3.5,
+          0
+        ],
+        "scale": [
+          0.55,
+          0.5,
+          0.4
+        ]
+      },
+      "firstperson_lefthand": {
+        "rotation": [
+          358,
+          326,
+          354
+        ],
+        "translation": [
+          0.25,
+          3.25,
+          0
+        ],
+        "scale": [
+          0.55,
+          0.5,
+          0.4
+        ]
+      },
+      "gui": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "head": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "fixed": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      },
+      "ground": {
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "translation": [
+          0,
+          2.5,
+          0
+        ],
+        "scale": [
+          0.46,
+          0.46,
+          0.46
+        ]
+      }
+    }
+}

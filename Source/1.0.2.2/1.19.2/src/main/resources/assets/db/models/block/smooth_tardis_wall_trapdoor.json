@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_bottom",
+  "textures": {
+    "texture": "db:blocks/smooth_dark_wall_tardis",
+    "particle": "db:blocks/smooth_dark_wall_tardis"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TV"
+  ],
+  "key": {
+    "T": {
+      "item": "db:tardis_wall_light_bricks"
+    },
+    "V": {
+      "item": "minecraft:vine"
+    }
+  },
+  "result": {
+    "item": "db:tardis_wall_light_mossy_bricks",
+    "count": 1
+  }
+}
